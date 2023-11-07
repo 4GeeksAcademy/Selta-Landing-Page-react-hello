@@ -18,6 +18,8 @@ const Home = () => {
 			<Card title="Card Title" description="This text is using the proptypes so its easier to be moldable in the future" />
 			<Card title="Card Title" description="This text is using the proptypes so its easier to be moldable in the future" />
 			<Card title="Card Title" description="This text is using the proptypes so its easier to be moldable in the future" />
+			<Card title="Card Title" description="This text is using the proptypes so its easier to be moldable in the future" />
+
 		</div>
 		<Footer copyright="Copyright © 2023 :" website=" Your Website" />
 
