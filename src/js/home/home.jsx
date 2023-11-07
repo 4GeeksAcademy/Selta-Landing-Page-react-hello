@@ -12,8 +12,12 @@ const Home = () => {
 	return (
 		<>
 		<NavBar />
-		<Jumbotron title="A Warm Welcome" description="This text is using the proptypes so its easier"/>
-			
+		<Jumbotron title="A Warm Welcome" description="This text is using the proptypes so its easier to be moldable in the future"/>
+		<div className="card-group">
+			<Card title="Card Title" description="This text is using the proptypes so its easier to be moldable in the future" />
+			<Card title="Card Title" description="This text is using the proptypes so its easier to be moldable in the future" />
+			<Card title="Card Title" description="This text is using the proptypes so its easier to be moldable in the future" />
+		</div>
 		</>
 	);
 };
